@@ -1,2 +1,2 @@
 # ignore mongoDB password etc
-.env
+/.env
