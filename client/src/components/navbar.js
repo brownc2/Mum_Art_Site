@@ -37,6 +37,7 @@ export default function Navbar() {
               </NavLink>
             </li>
           </ul>
+          <h1>Beta</h1>
         </div>
       </nav>
     </div>
